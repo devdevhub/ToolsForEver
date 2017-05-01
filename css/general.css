@@ -1,0 +1,9 @@
+body {
+	padding: 20px;
+}
+
+	body #page-wrapper {
+		background-color: #EEE8AA;
+		border-radius: 20px;
+		padding: 20px;
+	}
